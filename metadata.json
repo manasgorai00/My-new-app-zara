@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI Assistant",
+  "description": "Expert real-time voice-to-voice sassy Bengali AI assistant with local memory, live reaction camera, inbuilt browser, and canvas renderer.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
